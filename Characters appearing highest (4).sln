@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Characters appearing highest (4)", "Characters appearing highest (4)\Characters appearing highest (4).vbproj", "{B51C6C75-D810-4A8F-9B8A-304F0B014491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51C6C75-D810-4A8F-9B8A-304F0B014491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51C6C75-D810-4A8F-9B8A-304F0B014491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51C6C75-D810-4A8F-9B8A-304F0B014491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51C6C75-D810-4A8F-9B8A-304F0B014491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9965D85A-F225-4284-B2E8-AE4D489E9E99}
+	EndGlobalSection
+EndGlobal
